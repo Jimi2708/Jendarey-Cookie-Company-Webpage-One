@@ -63,13 +63,13 @@
         <repository>
             <id>nexus</id>
             <name>Jendarey Technologies Releases Nexus Repository</name>
-            <url>http://18.206.192.84:8081/jendarey/repository/vote-releases/</url>
+            <url>http://18.206.192.84:8081/jendarey/repository/cookie-releases/</url>
         </repository>
 
         <snapshotRepository>
             <id>nexus</id>
             <name>Jendarey Technologies Snapshot Nexus Repository</name>
-            <url>http://18.206.192.84:8081/jendarey/repository/vote-snapshots/</url> 
+            <url>http://18.206.192.84:8081/jendarey/repository/cookie-snapshots/</url> 
         </snapshotRepository>
        </distributionManagement>
 	
