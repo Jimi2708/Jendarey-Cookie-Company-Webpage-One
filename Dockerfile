@@ -22,7 +22,7 @@ CMD ["catalina.sh", "run"]
 # docker run -d -p 19000:8080 --name=cookies-web jendaredocker/jendarey-cookie-company-webpage-main:latest
 
 
-
+# docker me
 # docker-compose up
 # docker exec -it ac7 bash 
 # ls /usr/local/tomcat/logs
